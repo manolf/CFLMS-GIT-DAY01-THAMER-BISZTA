@@ -1,0 +1,2 @@
+First line file4.txt
+Second line file4.txt
